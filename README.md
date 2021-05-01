@@ -1,1 +1,2 @@
-## React Projects Starter APP
+## Used Basically
+useEffect and Conditional Rendering
